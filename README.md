@@ -9,8 +9,7 @@ Time: **13:00-15:00**
 
 ### Lessons List
 1. [**Introduction to STM32**](/Lessons/Introduction-to-STM32.md)
-2. [**Board Used: Nucleo-F411RE**](/Lessons/Nucleo-F411RE.md)
-3. [**Introduction to HAL**](/Lessons/Introduction-to-STM32.md)
+2. [**Introduction to HAL**](/Lessons/Introduction-to-HAL.md)
 
 ### Hands-on Activities
 1. [**Start a New Project**]()
