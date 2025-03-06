@@ -5,14 +5,14 @@ Date: **07/03/2025 (FRI)**
 
 Time: **13:00-15:00**
 
-## Prerequisites
+## [**Prerequisites**](Prerequisite.md)
 
-### Lesson List
-1. **Introduction to STM32**
-2. **Board Used: Nucleo-F411RE**
-3. **Introduction to HAL**
+### Lessons List
+1. [**Introduction to STM32**](/Lessons/Introduction-to-STM32.md)
+2. [**Board Used: Nucleo-F411RE**](/Lessons/Nucleo-F411RE.md)
+3. [**Introduction to HAL**](/Lessons/Introduction-to-STM32.md)
 
 ### Hands-on Activities
-1. **Start a New Project**
-2. **Create an Interactive LED using a Push Button**
-3. **Debugging the Program**
+1. [**Start a New Project**]()
+2. [**Create an Interactive LED using a Push Button**]()
+3. [**Debugging the Program**]()
